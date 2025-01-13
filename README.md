@@ -1,2 +1,2 @@
 # .github
-A description for @dexrewind
+A description for @rewindex
